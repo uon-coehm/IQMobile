@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Core", "IQCare.Sync.Core\IQCare.Sync.Core.csproj", "{A6655DDA-1857-40F1-A346-0F62F45F1F95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4C2B981E-6E9A-449C-842D-1E318F583F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{49C4829C-1D43-4175-A8C4-45F1262E2E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Shared", "IQCare.Sync.Shared\IQCare.Sync.Shared.csproj", "{3CD53D0E-554D-4C5B-A010-987D3AB31944}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{854F0092-FCA8-48F5-B4FF-25B3AD297663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Infrastructure", "IQCare.Sync.Infrastructure\IQCare.Sync.Infrastructure.csproj", "{643F0CBF-799C-4428-AB6F-29C3671FB7FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Wapi", "Wapi", "{E7B2AFE1-51EA-4501-B8BF-4772233084C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Infrastructure.Tests", "IQCare.Sync.Infrastructure.Tests\IQCare.Sync.Infrastructure.Tests.csproj", "{1120CF6D-E2AB-44C0-85F8-F96D11ED395E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Core.Tests", "IQCare.Sync.Core.Tests\IQCare.Sync.Core.Tests.csproj", "{6BDAD2F1-2302-4B80-B9DC-F2AF9ECE4D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Shared.Tests", "IQCare.Sync.Shared.Tests\IQCare.Sync.Shared.Tests.csproj", "{1E999384-F53B-4E1A-A47B-ED9F8148F78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Wapi", "IQCare.Sync.Wapi\IQCare.Sync.Wapi.csproj", "{683BF7B6-C9C4-4A32-BF42-047F7DD388F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCare.Sync.Wapi.Tests", "IQCare.Sync.Wapi.Tests\IQCare.Sync.Wapi.Tests.csproj", "{2969BFD2-C053-47AF-A560-5D11C3253341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseScripts", "DatabaseScripts", "{E5852856-62AA-469E-9178-32B13AFB1FA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IQCareHTSModule", "IQCareHTSModule", "{DBF059C0-35A4-4277-AB44-00889FE73C45}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\00 HTS Tables.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\00 HTS Tables.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\01 HTS Module.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\01 HTS Module.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\02 Profile.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\02 Profile.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\03 Previous Testing.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\03 Previous Testing.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\04 Strategy.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\04 Strategy.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\05 HIV Test.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\05 HIV Test.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\06 Final Result.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\06 Final Result.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\07 Linkage.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\07 Linkage.sql
+		..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\08 Additional Remarks.sql = ..\..\..\..\OneDrive - Health.Intel\HTS Module\HTS\08 Additional Remarks.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6655DDA-1857-40F1-A346-0F62F45F1F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6655DDA-1857-40F1-A346-0F62F45F1F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6655DDA-1857-40F1-A346-0F62F45F1F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6655DDA-1857-40F1-A346-0F62F45F1F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD53D0E-554D-4C5B-A010-987D3AB31944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD53D0E-554D-4C5B-A010-987D3AB31944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD53D0E-554D-4C5B-A010-987D3AB31944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD53D0E-554D-4C5B-A010-987D3AB31944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643F0CBF-799C-4428-AB6F-29C3671FB7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643F0CBF-799C-4428-AB6F-29C3671FB7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643F0CBF-799C-4428-AB6F-29C3671FB7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643F0CBF-799C-4428-AB6F-29C3671FB7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1120CF6D-E2AB-44C0-85F8-F96D11ED395E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1120CF6D-E2AB-44C0-85F8-F96D11ED395E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1120CF6D-E2AB-44C0-85F8-F96D11ED395E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1120CF6D-E2AB-44C0-85F8-F96D11ED395E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDAD2F1-2302-4B80-B9DC-F2AF9ECE4D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDAD2F1-2302-4B80-B9DC-F2AF9ECE4D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDAD2F1-2302-4B80-B9DC-F2AF9ECE4D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDAD2F1-2302-4B80-B9DC-F2AF9ECE4D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E999384-F53B-4E1A-A47B-ED9F8148F78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E999384-F53B-4E1A-A47B-ED9F8148F78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E999384-F53B-4E1A-A47B-ED9F8148F78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E999384-F53B-4E1A-A47B-ED9F8148F78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683BF7B6-C9C4-4A32-BF42-047F7DD388F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683BF7B6-C9C4-4A32-BF42-047F7DD388F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683BF7B6-C9C4-4A32-BF42-047F7DD388F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683BF7B6-C9C4-4A32-BF42-047F7DD388F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2969BFD2-C053-47AF-A560-5D11C3253341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2969BFD2-C053-47AF-A560-5D11C3253341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2969BFD2-C053-47AF-A560-5D11C3253341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2969BFD2-C053-47AF-A560-5D11C3253341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6655DDA-1857-40F1-A346-0F62F45F1F95} = {4C2B981E-6E9A-449C-842D-1E318F583F08}
+		{3CD53D0E-554D-4C5B-A010-987D3AB31944} = {49C4829C-1D43-4175-A8C4-45F1262E2E14}
+		{643F0CBF-799C-4428-AB6F-29C3671FB7FD} = {854F0092-FCA8-48F5-B4FF-25B3AD297663}
+		{1120CF6D-E2AB-44C0-85F8-F96D11ED395E} = {854F0092-FCA8-48F5-B4FF-25B3AD297663}
+		{6BDAD2F1-2302-4B80-B9DC-F2AF9ECE4D15} = {4C2B981E-6E9A-449C-842D-1E318F583F08}
+		{1E999384-F53B-4E1A-A47B-ED9F8148F78A} = {49C4829C-1D43-4175-A8C4-45F1262E2E14}
+		{683BF7B6-C9C4-4A32-BF42-047F7DD388F8} = {E7B2AFE1-51EA-4501-B8BF-4772233084C6}
+		{2969BFD2-C053-47AF-A560-5D11C3253341} = {E7B2AFE1-51EA-4501-B8BF-4772233084C6}
+		{DBF059C0-35A4-4277-AB44-00889FE73C45} = {E5852856-62AA-469E-9178-32B13AFB1FA2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1389364C-884A-41B4-B3C2-A2FDE73297F1}
+	EndGlobalSection
+EndGlobal
