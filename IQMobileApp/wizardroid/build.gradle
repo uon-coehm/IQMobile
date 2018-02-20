@@ -1,0 +1,25 @@
+apply plugin: 'com.android.library'
+apply plugin: 'maven'
+apply plugin: 'signing'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionName '1.0'
+        versionCode 1
+    }
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation', 'ExtraTranslation'
+    }
+}
+
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+}
+
+

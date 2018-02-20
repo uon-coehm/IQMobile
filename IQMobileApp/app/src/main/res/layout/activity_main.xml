@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="10"
+        tools:context="com.thepalladiumgroup.iqm.MainActivity">
+
+        <include
+            android:id="@+id/home_toolbar"
+            layout="@layout/toolbar" />
+
+        <LinearLayout
+            android:id="@+id/linearLayoutWelcome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:baselineAligned="false"
+            android:longClickable="false"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textViewMainUser"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="welcome, [USER]"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="11.44">
+
+            <LinearLayout
+                android:id="@+id/linearLayouPatientStats"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="3"
+                android:background="@color/accent_material_dark"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textViewStatsHeader"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:drawableLeft="@drawable/ic_people_white_24dp"
+                        android:text="Client Statistics"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="17dp" />
+
+                    <TextView
+                        android:id="@+id/textViewPatientCount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/textViewStatsHeader"
+
+                        android:layout_marginLeft="28dp"
+                        android:layout_marginStart="28dp"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="50dp" />
+
+                    <TextView
+                        android:id="@+id/textViewPatientCountInfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/textViewStatF"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginStart="18dp"
+                        android:text="CLIENTS"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="11dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewStatM"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="65dp"
+                        android:layout_marginStart="65dp"
+                        android:layout_toEndOf="@+id/textViewPatientCountInfo"
+                        android:layout_toRightOf="@+id/textViewPatientCountInfo"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="11dp" />
+
+                    <TextView
+                        android:id="@+id/textViewStatF"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBaseline="@+id/textViewPatientCount"
+                        android:layout_alignBottom="@+id/textViewPatientCount"
+                        android:layout_alignLeft="@+id/textViewStatM"
+                        android:layout_alignStart="@+id/textViewStatM"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="11dp" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayouPatientAction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/buttonManagePatients"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#c607c3"
+                    android:drawableTop="@drawable/ic_search_white_24dp"
+                    android:onClick="onClickManage"
+                    android:text="@string/lable_find_patient"
+                    android:textColor="#ffffff" />
+
+                <Button
+                    android:id="@+id/buttonNewPatient"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#021cae"
+                    android:drawableTop="@drawable/ic_person_add_white_24dp"
+                    android:onClick="onClickNew"
+                    android:text="@string/lable_new_patient_registration"
+                    android:textColor="#ffffff" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayoutSyncStats"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="2"
+                android:background="@color/button_material_light"
+                android:baselineAligned="true"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="4.52">
+
+                    <TextView
+                        android:id="@+id/textViewSycnStatsHeader"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_marginEnd="61dp"
+                        android:layout_marginRight="61dp"
+                        android:drawableLeft="@drawable/ic_folder_shared_white_24dp"
+                        android:text="Records Summary"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordCount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/textViewSycnStatsHeader"
+                        android:layout_marginLeft="39dp"
+                        android:layout_marginStart="39dp"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="55sp" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordCountInfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/textViewRecordCountInfoTotal"
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginStart="14dp"
+                        android:layout_toEndOf="@+id/textViewRecordCount"
+                        android:layout_toRightOf="@+id/textViewRecordCount"
+                        android:text="RECORDS"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordCountInfoTotal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/textViewRecordCountInfo"
+                        android:layout_alignStart="@+id/textViewRecordCountInfo"
+                        android:layout_centerVertical="true"
+                        android:text="TOTAL"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordComplete"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignTop="@+id/textViewRecordCount"
+                        android:layout_marginLeft="17dp"
+                        android:layout_marginStart="17dp"
+                        android:layout_toEndOf="@+id/textViewRecordCountInfo"
+                        android:layout_toRightOf="@+id/textViewRecordCountInfo"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="15sp" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordCompleteInfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginStart="10dp"
+                        android:text="COMPLETED"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="12sp"
+                        android:layout_alignBaseline="@+id/textViewRecordComplete"
+                        android:layout_alignBottom="@+id/textViewRecordComplete"
+                        android:layout_toRightOf="@+id/textViewRecordComplete"
+                        android:layout_toEndOf="@+id/textViewRecordComplete" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordPending"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@+id/textViewRecordComplete"
+                        android:layout_alignStart="@+id/textViewRecordComplete"
+                        android:layout_alignTop="@+id/textViewRecordCountInfo"
+                        android:text="0"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textSize="15sp" />
+
+                    <TextView
+                        android:id="@+id/textViewRecordPendingInfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PENDING "
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:textSize="12sp"
+                        android:layout_alignBaseline="@+id/textViewRecordPending"
+                        android:layout_alignBottom="@+id/textViewRecordPending"
+                        android:layout_alignLeft="@+id/textViewRecordCompleteInfo"
+                        android:layout_alignStart="@+id/textViewRecordCompleteInfo" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayoutSyncAction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/buttonSync"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#98b4e9"
+                    android:drawableTop="@drawable/ic_sync_white_24dp"
+                    android:onClick="onClickSync"
+                    android:text="Update Modules"
+                    android:textColor="#ffffff" />
+
+                <Button
+                    android:id="@+id/buttonSendData"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#074ac6"
+                    android:drawableTop="@drawable/ic_cloud_upload_white_24dp"
+                    android:onClick="onClickSync"
+                    android:text="Send Client Data"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayoutTools"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/buttonProfile"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#ef9104"
+                    android:drawableTop="@drawable/ic_account_box_white_24dp"
+                    android:onClick="onClickDeviceInfo"
+                    android:text="My Profile"
+                    android:textColor="#ffffff" />
+
+                <Button
+                    android:id="@+id/buttonDevice"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#918989"
+                    android:drawableTop="@drawable/ic_settings_applications_white_24dp"
+                    android:onClick="onClickDeviceInfo"
+                    android:text="@string/label_get_device"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linearLayoutAppAction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:weightSum="2">
+                <Button
+                    android:id="@+id/buttonLogoff"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#3caf03"
+                    android:drawableTop="@drawable/ic_exit_to_app_white_24dp"
+                    android:onClick="onClickLogOut"
+                    android:text="Log Out"
+                    android:textColor="#ffffff" />
+
+                <Button
+                    android:id="@+id/buttonExit"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="#c60707"
+                    android:drawableTop="@drawable/ic_power_settings_new_white_24dp"
+                    android:longClickable="false"
+                    android:onClick="onClickExit"
+                    android:text="@string/label_exit"
+                    android:textColor="#ffffff" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

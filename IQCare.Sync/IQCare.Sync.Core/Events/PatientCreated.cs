@@ -24,8 +24,8 @@ namespace IQCare.Sync.Core.Events
 
             //TODO: Remove hard codede ModuleID,VisitType,LocationID values
 
-            Module = new IQModule() {ModuleID = 300};
-            VisitType = new IQVisitType() {VisitTypeID = 10001};
+            Module = new IQModule() {ModuleID = 5};
+            VisitType = new IQVisitType() {VisitTypeID = 219};
         }
     }
 }

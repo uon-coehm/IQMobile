@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="step_container" type="id"/>
+    <item name="wizard_next_button" type="id"/>
+    <item name="wizard_previous_button" type="id"/>
+    <string name="action_finish">Finish</string>
+    <string name="action_next">Next</string>
+    <string name="action_previous">Back</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Feb 19 15:58:00 EAT 2018
+base.0=C\:\\Projects\\IQMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_536d656dfce1f1a07b9a07565fab5a6b7459b62a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Projects\\IQMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ffef152c457954dfc67cc77ece6dc930b87dbca\\classes.dex
+base.1=C\:\\Projects\\IQMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ffef152c457954dfc67cc77ece6dc930b87dbca
+file.0=C\:\\Projects\\IQMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_536d656dfce1f1a07b9a07565fab5a6b7459b62a\\classes.dex

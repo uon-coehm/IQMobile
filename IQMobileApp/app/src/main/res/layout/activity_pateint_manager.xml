@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.thepalladiumgroup.iqm.PateintManagerActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/patient_home_toolbar"
+            layout="@layout/toolbar" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:layout_weight="0.02"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.34"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textViewDashFullName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="John M Doe"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textViewDashClientCode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_gravity="top|right"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="000000"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textStyle="bold" />
+
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.34"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textViewDashSex"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="10px"
+                    android:text="Male"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textViewLabelDob"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="5px"
+                    android:text="Born:" />
+
+                <TextView
+                    android:id="@+id/textViewDashDob"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="5px"
+                    android:text="09 JAN 1989"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textViewDashAge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="5px"
+                    android:text="[24 yrs]"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/textViewDashError"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#f90303" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="1">
+
+                <Button
+                    android:id="@+id/buttonViewRegistration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.45"
+                    android:onClick="onClickRegistration"
+                    android:text="View Registration" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textViewModule"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Module"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewEncounterType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EncounterType"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <Button
+                android:id="@+id/buttonNewRecord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickNewRecord"
+                android:text="New HTS" />
+
+            <Button
+                android:id="@+id/buttonContinueRecord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickContinueRecord"
+                android:text="Continue HTS" />
+
+            <TextView
+                android:id="@+id/textViewEncounterDetials"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Encounters"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <Button
+                android:id="@+id/buttonReviewRecord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickReviewRecord"
+                android:text="Review HTS" />
+
+            <Button
+                android:id="@+id/buttonSendRecord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Send Data" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

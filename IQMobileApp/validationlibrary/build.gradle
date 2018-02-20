@@ -1,0 +1,77 @@
+apply plugin: 'com.android.library'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 25
+
+        versionName "1.0"
+        versionCode 1
+    }
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation', 'ExtraTranslation'
+    }
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+    // Robolectric tests
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.mockito:mockito-core:1.9.5'
+    testCompile 'com.squareup:fest-android:1.0.8@aar'
+    testCompile('org.robolectric:robolectric:2.4') {
+        exclude module: 'classworlds'
+        exclude module: 'commons-logging'
+        exclude module: 'httpclient'
+        exclude module: 'maven-artifact'
+        exclude module: 'maven-artifact-manager'
+        exclude module: 'maven-error-diagnostics'
+        exclude module: 'maven-model'
+        exclude module: 'maven-plugin-registry'
+        exclude module: 'maven-profile'
+        exclude module: 'maven-project'
+        exclude module: 'maven-settings'
+        exclude module: 'nekohtml'
+        exclude module: 'plexus-container-default'
+        exclude module: 'plexus-interpolation'
+        exclude module: 'plexus-utils'
+        exclude module: 'wagon-file'
+        exclude module: 'wagon-http-lightweight'
+        exclude module: 'wagon-http-shared'
+        exclude module: 'wagon-provider-api'
+
+    }
+}
+
+//android.testOptions.unitTests.all {
+//    // Configure includes / excludes
+//    include '**/*Test.class'
+//    exclude '**/espresso/**/*.class'
+//
+//    // Configure max heap size of the test JVM
+//    maxHeapSize = '1024m'
+//
+//    // Configure the test JVM arguments - Does not apply to Java 8
+//    jvmArgs '-XX:MaxPermSize=512m', '-XX:-UseSplitVerifier'
+//
+//    // Specify max number of processes (default is 1)
+//    maxParallelForks = 4
+//
+//    // configure whether failing tests should fail the build
+//    ignoreFailures true
+//
+//    // use afterTest to listen to the test execution results
+//    afterTest { descriptor, result ->
+//        println "Executing test for ${descriptor.name} with result: ${result.resultType}"
+//    }
+//}
+

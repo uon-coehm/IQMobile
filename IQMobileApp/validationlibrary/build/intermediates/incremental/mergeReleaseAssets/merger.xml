@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Github\uon-coehm\IQMobile\IQMobileApp\validationlibrary\src\main\assets"/><source path="C:\Github\uon-coehm\IQMobile\IQMobileApp\validationlibrary\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Github\uon-coehm\IQMobile\IQMobileApp\validationlibrary\src\release\assets"/></dataSet></merger>
