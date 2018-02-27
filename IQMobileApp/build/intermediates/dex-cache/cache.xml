@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Projects\IQMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4223212e30ca5c4b532cb011b815eba4c76e07b0">
-        <dex dex="C:\Projects\IQMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3ffef152c457954dfc67cc77ece6dc930b87dbca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Projects\IQMobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Github\uon-coehm\IQMobile\IQMobileApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Projects\IQMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_536d656dfce1f1a07b9a07565fab5a6b7459b62a\classes.dex" />
+        <dex dex="C:\Github\uon-coehm\IQMobile\IQMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c0525648877e04763cf9a4abc3347ac15a5cd1ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Github\uon-coehm\IQMobile\IQMobileApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e53b0c52eae07ce6f3dea0081f5927aa203c1b0">
+        <dex dex="C:\Github\uon-coehm\IQMobile\IQMobileApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_943c30c9edb64434e6ca2b2958ac5b45f6ad62cb\classes.dex" />
     </item>
 
 </items>

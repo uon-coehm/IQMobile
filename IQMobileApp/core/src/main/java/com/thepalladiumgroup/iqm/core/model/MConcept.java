@@ -4,7 +4,10 @@ import com.j256.ormlite.dao.ForeignCollection;
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.field.ForeignCollectionField;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -436,7 +439,7 @@ public class MConcept extends Entity implements Comparable<MConcept> {
         }
     }
 
-    public String getComputedResult(Patient patient, List<Observation> observations) {
+    public String getComputedResult(Patient patient, List<Observation> observations, User currentuser, String sRegTime, String sStartTime) {
         String resultValue = null;
 
         if (!isAutcompute()) {
@@ -586,6 +589,21 @@ public class MConcept extends Entity implements Comparable<MConcept> {
 */
         }
 
+        if (autcomputelogic.contains("u.strategy")) {
+            resultValue = String.valueOf(currentuser.getStrategy());
+        }
+        else if(autcomputelogic.contains("reg_time")){
+            resultValue = sRegTime;
+        }
+        else if(autcomputelogic.contains("start_time")){
+            resultValue = sStartTime;
+        }
+        else if(autcomputelogic.contains("stop_time")){
+            DateFormat dateFormat = new SimpleDateFormat("HH:mm");
+            Date date = new Date();
+            resultValue = dateFormat.format(date);
+        }
+
         return resultValue;
     }
 
@@ -651,7 +669,6 @@ public class MConcept extends Entity implements Comparable<MConcept> {
 
         return resultValue;
     }
-
 
     @Override
     public String toString() {

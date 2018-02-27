@@ -3437,7 +3437,7 @@ containing a value of this type.
         public static final int never=0x7f0f0047;
         public static final int none=0x7f0f001a;
         public static final int normal=0x7f0f001c;
-        public static final int notification_background=0x7f0f014b;
+        public static final int notification_background=0x7f0f014a;
         public static final int notification_main_column=0x7f0f0145;
         public static final int notification_main_column_container=0x7f0f0144;
         public static final int observation_toolbar=0x7f0f00d5;
@@ -3462,7 +3462,7 @@ containing a value of this type.
         public static final int radioButtonFemale=0x7f0f0122;
         public static final int radioButtonMale=0x7f0f0121;
         public static final int right=0x7f0f0038;
-        public static final int right_icon=0x7f0f014a;
+        public static final int right_icon=0x7f0f014b;
         public static final int right_side=0x7f0f0146;
         public static final int screen=0x7f0f002b;
         public static final int scroll=0x7f0f0027;

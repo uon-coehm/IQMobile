@@ -116,7 +116,8 @@ public class MainActivity extends AppCompatActivity implements IMainView {
                 .setCancelable(false)
                 .setPositiveButton("Exit", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
-                        MainActivity.this.finish();
+                        //MainActivity.this.finish();
+                        finishAffinity();
                     }
                 })
                 .setNegativeButton("No", null)

@@ -1,4 +1,4 @@
-#Mon Feb 19 16:01:13 EAT 2018
-base.0=C\:\\Projects\\IQMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+#Tue Feb 27 10:19:46 EAT 2018
+base.0=C\:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
 renamed.0=classes.dex
-file.0=C\:\\Projects\\IQMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
+file.0=C\:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

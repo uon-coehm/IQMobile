@@ -134,7 +134,8 @@ public class ObservationPresenter implements IObservationPresenter {
                 SLF_LOGGER.debug("starting New encounter...");
                 Encounter newEncounter = new Encounter(getView().getEncounterType(), getView().getPatient());
                 if (user != null) {
-                    newEncounter.setUserid(user.getId());
+                    //newEncounter.setUserid(user.getId()); //Set IQCare ID instead
+                    newEncounter.setUserid(user.getIqcareid());
                 }
                 encounter = encounterService.saveNew(newEncounter);
                 getView().setEncounterId(encounter.getId());
@@ -573,7 +574,8 @@ public class ObservationPresenter implements IObservationPresenter {
     @Override
     public Observation saveObservation(Observation observation) {
         if (user != null) {
-            observation.setUserid(user.getId());
+            //observation.setUserid(user.getId()); //Set IQCare ID instead
+            observation.setUserid(user.getIqcareid());
         }
         Observation obs = null;
         try {
@@ -587,7 +589,6 @@ public class ObservationPresenter implements IObservationPresenter {
         }
         return obs;
     }
-
 
     private void saveActiveSessionConcept(Observation observation) {
         if (observation != null) {

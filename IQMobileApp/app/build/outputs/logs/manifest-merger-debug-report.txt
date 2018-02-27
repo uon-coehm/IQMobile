@@ -127,12 +127,12 @@ ADDED from C:\Github\uon-coehm\IQMobile\IQMobileApp\app\src\main\AndroidManifest
 		ADDED from C:\Github\uon-coehm\IQMobile\IQMobileApp\app\src\main\AndroidManifest.xml:65:13-45
 uses-sdk
 INJECTED from C:\Github\uon-coehm\IQMobile\IQMobileApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\User\.android\build-cache\c73d3cb3f14adcd16ab4c20f865e908a7adb5553\output\AndroidManifest.xml:18:5-42
 MERGED from [IQMobileApp:presentation:unspecified] C:\Github\uon-coehm\IQMobile\IQMobileApp\presentation\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [IQMobileApp:core:unspecified] C:\Github\uon-coehm\IQMobile\IQMobileApp\core\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [IQMobileApp:wizardroid:unspecified] C:\Github\uon-coehm\IQMobile\IQMobileApp\wizardroid\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
 MERGED from [IQMobileApp:validationlibrary:unspecified] C:\Github\uon-coehm\IQMobile\IQMobileApp\validationlibrary\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\User\.android\build-cache\b64792badebff1b9509b2ad718d28da4c248e6b1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User\.android\build-cache\c73d3cb3f14adcd16ab4c20f865e908a7adb5553\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:design:25.3.1] C:\Users\User\.android\build-cache\f7a498530319dc5dd5812b78df4486a1618cae06\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\User\.android\build-cache\8200db9558e8c3c1ab0a73a33fb5021951a0ef61\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\User\.android\build-cache\fe19b1e331bf2c43102946dfcc73b5c92e91b99e\output\AndroidManifest.xml:20:5-44

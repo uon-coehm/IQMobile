@@ -109,7 +109,7 @@ public class LoginPresenter implements ILoginPresenter {
         }
 
         if (authenticUser == null) {
-            getView().showError("Wrong password ! try agin");
+            getView().showError("Wrong password ! try again");
             return false;
         }
         else{

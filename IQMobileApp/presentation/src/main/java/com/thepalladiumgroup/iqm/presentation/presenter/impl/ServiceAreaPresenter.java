@@ -72,7 +72,8 @@ public class ServiceAreaPresenter implements IServiceAreaPresenter {
             Patient patientToSave = getView().getServciceArea();
             patientToSave.checkdobIsEstimated();
             if (user != null) {
-                patientToSave.setUserid(user.getId());
+                //patientToSave.setUserid(user.getId()); //Save IQCare ID rather than UserId
+                patientToSave.setUserid(user.getIqcareid());
             }
             if (view.inEditMode()) {
                 savedOk = patientService.update(patientToSave);

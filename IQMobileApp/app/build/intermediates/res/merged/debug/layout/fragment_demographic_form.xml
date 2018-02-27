@@ -55,8 +55,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="First Name"
-                    android:inputType="textPersonName"
-                    android:singleLine="true"
+                    android:inputType="textCapSentences"
                     android:textSize="15sp" />
 
                 <EditText
@@ -64,8 +63,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Middle Name"
-                    android:inputType="textPersonName"
-                    android:singleLine="true"
+                    android:inputType="textCapSentences"
                     android:textSize="15sp" />
 
                 <EditText
@@ -73,8 +71,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="Last Name"
-                    android:inputType="textPersonName"
-                    android:singleLine="true"
+                    android:inputType="textCapSentences"
                     android:textSize="15sp" />
 
                 <RadioGroup

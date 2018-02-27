@@ -60,6 +60,9 @@ public class Patient extends Entity {
     private Patient partner;
     private boolean estimateddob;
 
+    public String RegTime;
+    public String StartTime;
+    public String StopTime;
 
     private transient PatientAgeDetail patientAgeDetail;
 

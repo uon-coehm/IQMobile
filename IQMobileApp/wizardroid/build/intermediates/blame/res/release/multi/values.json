@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Projects\\IQMobile_9112017\\wizardroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values\\id.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values\\id.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 142
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values\\id.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values\\id.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 194
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values\\id.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values\\id.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 243
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 288
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -106,126 +106,7 @@
                     "endOffset": 337
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 48,
-                        "endOffset": 101
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Projects\\IQMobile\\wizardroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 43,
-                    "endOffset": 94
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values\\id.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 44,
-                        "endOffset": 97
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 99,
-                    "endColumn": 47,
-                    "endOffset": 142
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values\\id.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 157,
-                        "endColumn": 48,
-                        "endOffset": 201
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 147,
-                    "endColumn": 51,
-                    "endOffset": 194
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values\\id.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 103,
-                        "endColumn": 52,
-                        "endOffset": 151
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 199,
-                    "endColumn": 48,
-                    "endOffset": 243
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 153,
-                        "endColumn": 48,
-                        "endOffset": 197
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 248,
-                    "endColumn": 44,
-                    "endOffset": 288
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 107,
-                        "endColumn": 44,
-                        "endOffset": 147
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 293,
-                    "endColumn": 48,
-                    "endOffset": 337
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

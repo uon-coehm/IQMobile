@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Projects\\IQMobile_9112017\\wizardroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-de\\values-de.xml",
+        "outputFile": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-de\\values-de.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 146
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,69 +49,7 @@
                     "endOffset": 197
                 },
                 "from": {
-                    "file": "C:\\Projects\\IQMobile_9112017\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 50,
-                        "endOffset": 103
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Projects\\IQMobile\\wizardroid\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-de\\values-de.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 48,
-                    "endOffset": 99
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 157,
-                        "endColumn": 48,
-                        "endOffset": 201
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 104,
-                    "endColumn": 46,
-                    "endOffset": 146
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 109,
-                        "endColumn": 46,
-                        "endOffset": 151
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 151,
-                    "endColumn": 50,
-                    "endOffset": 197
-                },
-                "from": {
-                    "file": "C:\\Projects\\IQMobile\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
+                    "file": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\wizardroid\\src\\main\\res\\values-de\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

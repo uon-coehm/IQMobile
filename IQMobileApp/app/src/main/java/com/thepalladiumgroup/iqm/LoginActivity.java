@@ -2,6 +2,7 @@ package com.thepalladiumgroup.iqm;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -22,6 +23,7 @@ import com.thepalladiumgroup.iqm.presentation.view.ILoginView;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.net.URL;
 import java.util.List;
 
 import eu.inmite.android.lib.validations.form.FormValidator;

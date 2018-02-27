@@ -960,7 +960,7 @@ int id navigation_header_container 0x7f0f0109
 int id never 0x7f0f0047
 int id none 0x7f0f001a
 int id normal 0x7f0f001c
-int id notification_background 0x7f0f014b
+int id notification_background 0x7f0f014a
 int id notification_main_column 0x7f0f0145
 int id notification_main_column_container 0x7f0f0144
 int id observation_toolbar 0x7f0f00d5
@@ -985,7 +985,7 @@ int id radioButtonAgeYrs 0x7f0f0124
 int id radioButtonFemale 0x7f0f0122
 int id radioButtonMale 0x7f0f0121
 int id right 0x7f0f0038
-int id right_icon 0x7f0f014a
+int id right_icon 0x7f0f014b
 int id right_side 0x7f0f0146
 int id screen 0x7f0f002b
 int id scroll 0x7f0f0027

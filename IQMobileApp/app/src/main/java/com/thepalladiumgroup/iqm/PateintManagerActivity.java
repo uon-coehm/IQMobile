@@ -21,6 +21,9 @@ import com.thepalladiumgroup.iqm.presentation.view.IPatientManagerView;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 
 public class PateintManagerActivity extends AppCompatActivity implements IPatientManagerView {
@@ -49,7 +52,7 @@ public class PateintManagerActivity extends AppCompatActivity implements IPatien
     private Button mHTS;
     private Button mNewEncounter;
     private Button mContinueEncounter;
-    private Button mSendEncounter;
+    //private Button mSendEncounter;
     private Button mReviewEncounter;
 
     @Override
@@ -145,7 +148,7 @@ public class PateintManagerActivity extends AppCompatActivity implements IPatien
         mNewEncounter = (Button) findViewById(R.id.buttonNewRecord);
         mContinueEncounter = (Button) findViewById(R.id.buttonContinueRecord);
         mReviewEncounter = (Button) findViewById(R.id.buttonReviewRecord);
-        mSendEncounter = (Button) findViewById(R.id.buttonSendRecord);
+        //mSendEncounter = (Button) findViewById(R.id.buttonSendRecord);
         if (extras != null) {
             patientid = extras.getInt("patient_id");
         }
@@ -189,7 +192,7 @@ public class PateintManagerActivity extends AppCompatActivity implements IPatien
             mNewEncounter.setEnabled(true);
             mContinueEncounter.setEnabled(false);
             mReviewEncounter.setEnabled(false);
-            mSendEncounter.setEnabled(false);
+            //mSendEncounter.setEnabled(false);
 
         } else {
             encounter = encounters.get(0);
@@ -197,7 +200,7 @@ public class PateintManagerActivity extends AppCompatActivity implements IPatien
                 mNewEncounter.setEnabled(false);
                 mContinueEncounter.setEnabled(false);
                 mReviewEncounter.setEnabled(true);
-                mSendEncounter.setEnabled(true);
+                //mSendEncounter.setEnabled(true);
             } else {
 
 
@@ -208,7 +211,7 @@ public class PateintManagerActivity extends AppCompatActivity implements IPatien
                 mNewEncounter.setEnabled(false);
                 mContinueEncounter.setEnabled(true);
                 mReviewEncounter.setEnabled(false);
-                mSendEncounter.setEnabled(false);
+                //mSendEncounter.setEnabled(false);
             }
 
         }
@@ -231,6 +234,10 @@ public class PateintManagerActivity extends AppCompatActivity implements IPatien
     }
 
     public void onClickNewRecord(View view) {
+        DateFormat dateFormat = new SimpleDateFormat("HH:mm");
+        Date date = new Date();
+        TransactionTime.StartTime = dateFormat.format(date);
+
         Intent intent = new Intent(this, ObservationActivity.class);
         intent.putExtra("active_patient_id", patient.getId());
         intent.putExtra("encounter_type_id", encounterType.getId());

@@ -3,7 +3,7 @@
     package="eu.inmite.android.lib.validations.test" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="16"
         android:targetSdkVersion="25" />
 
     <instrumentation

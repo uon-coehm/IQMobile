@@ -1,219 +1,11 @@
 [
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_people_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_people_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_knh.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_knh.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder_shared_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_shared_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_48dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gok.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_gok.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_add_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_add_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_black_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_autorenew_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_autorenew_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_account_box_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_box_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_uon.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_uon.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assignment_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_assignment_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_applications_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_applications_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_supervisor_account_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_supervisor_account_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_download_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_download_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gok.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_gok.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_portrait_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_portrait_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_download_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_download_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_phone_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_phone_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assessment_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_assessment_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_forever_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_forever_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_portrait_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_portrait_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assessment_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_assessment_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_account_box_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_box_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_autorenew_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_autorenew_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_uon.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_uon.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigate_before_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigate_before_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iqm.9.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\iqm.9.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_supervisor_account_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_supervisor_account_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_download_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_download_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_applications_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_applications_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_palladium.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_palladium.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_autorenew_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_autorenew_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_apps_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_apps_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_forever_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_forever_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assessment_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_assessment_white_24dp.png"
-    },
-    {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_white_24dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_iq_logo.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_iq_logo.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_white_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_black_24dp.png",
@@ -224,112 +16,16 @@
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_supervisor_account_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_48dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gok.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_gok.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_add_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_add_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder_shared_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_shared_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_uon.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_uon.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder_shared_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_shared_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_forever_black_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_forever_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_phone_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_phone_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_download_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assignment_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_assignment_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_download_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_download_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assignment_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_assignment_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_knh.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_knh.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_apps_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_apps_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_phone_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_phone_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_iq_logo.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_iq_logo.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iqm.9.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\iqm.9.png"
-    },
-    {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_exit_to_app_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigate_before_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigate_before_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_gok.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_gok.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_add_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_add_white_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_palladium.png",
@@ -340,95 +36,111 @@
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_people_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_applications_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_applications_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_black_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_black_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_account_box_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_box_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_black_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_black_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_account_box_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_box_white_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_info_black_24dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_black_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_menu_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_uon.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_uon.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_applications_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_applications_white_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_48dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_48dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_power_settings_new_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_power_settings_new_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iqm.9.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\iqm.9.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_power_settings_new_white_24dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_power_settings_new_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_add_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_add_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_folder_shared_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_shared_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_delete_forever_black_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_forever_black_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_power_settings_new_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\ic_power_settings_new_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_file_download_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile_9112017\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iqm.9.png",
-        "source": "C:\\Projects\\IQMobile_9112017\\app\\src\\main\\res\\drawable-xhdpi\\iqm.9.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_contact_phone_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_phone_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_create_new_folder_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_download_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_download_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_person_black_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_black_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigate_before_white_24dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigate_before_white_24dp.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_palladium.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_palladium.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assignment_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_assignment_white_24dp.png"
     },
     {
-        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_apps_white_24dp.png",
-        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_apps_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_autorenew_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_autorenew_white_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_knh.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_knh.png"
     },
     {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_apps_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_apps_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_assessment_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_assessment_white_24dp.png"
+    },
+    {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_iq_logo.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_iq_logo.png"
     },
     {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_lock_outline_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_outline_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_people_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_people_white_24dp.png"
-    },
-    {
-        "merged": "C:\\Projects\\IQMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search_white_24dp.png",
-        "source": "C:\\Projects\\IQMobile\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_white_24dp.png"
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_upload_white_24dp.png"
     },
     {
         "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_portrait_white_24dp.png",
         "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_portrait_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sync_white_24dp.png",
+        "source": "C:\\Github\\uon-coehm\\IQMobile\\IQMobileApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_white_24dp.png"
     }
 ]

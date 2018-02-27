@@ -54,6 +54,8 @@
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
+
+
             <TextView
                 android:id="@+id/textViewUsername"
                 android:layout_width="300dp"

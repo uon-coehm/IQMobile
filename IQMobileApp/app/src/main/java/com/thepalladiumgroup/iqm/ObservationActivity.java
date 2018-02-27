@@ -35,6 +35,7 @@ import com.thepalladiumgroup.iqm.core.model.MDataType;
 import com.thepalladiumgroup.iqm.core.model.Observation;
 import com.thepalladiumgroup.iqm.core.model.Patient;
 import com.thepalladiumgroup.iqm.core.model.SyncAction;
+import com.thepalladiumgroup.iqm.core.model.User;
 import com.thepalladiumgroup.iqm.presentation.presenter.IObservationPresenter;
 import com.thepalladiumgroup.iqm.presentation.presenter.impl.ObservationPresenter;
 import com.thepalladiumgroup.iqm.presentation.view.IObservationView;
@@ -253,6 +254,12 @@ public class ObservationActivity extends AppCompatActivity implements IObservati
         return indexTotal;
     }
 
+
+    public User getCurrentUser(){
+        IQMobileApplication app = (IQMobileApplication) this.getApplication();
+        return app.getCurrentUser();
+    }
+
     @Override
     public boolean canMovePrevious() {
         return false;
@@ -454,9 +461,10 @@ public class ObservationActivity extends AppCompatActivity implements IObservati
                 et.setText(obs.getObsvalueString());
             } else {
                 if (concept.isAutcompute()) {
-                    String result = concept.getComputedResult(getPatient(), getEncounter().getObservationsList());
+                    String result = concept.getComputedResult(getPatient(), getEncounter().getObservationsList(), getCurrentUser(), TransactionTime.RegTime, TransactionTime.StartTime);
                     if (result != null) {
                         et.setText(result);
+                        et.setEnabled(false);
                     }
                 }
             }
@@ -537,7 +545,7 @@ public class ObservationActivity extends AppCompatActivity implements IObservati
                 //
             } else {
                 if (concept.isAutcompute()) {
-                    String result = concept.getComputedResult(getPatient(), getEncounter().getObservationsList());
+                    String result = concept.getComputedResult(getPatient(), getEncounter().getObservationsList(), getCurrentUser(), TransactionTime.RegTime, TransactionTime.StartTime);
                     if (result != null) {
                         checkedYes = result.equals("1");
                     }
@@ -615,7 +623,7 @@ public class ObservationActivity extends AppCompatActivity implements IObservati
                 if (concept.isAutcompute()) {
 
 
-                    String result = concept.getComputedResult(getPatient(), getEncounter().getObservationsList());
+                    String result = concept.getComputedResult(getPatient(), getEncounter().getObservationsList(), getCurrentUser(), TransactionTime.RegTime, TransactionTime.StartTime);
                     if (result != null) {
                         Lookup lookup = findLookup(Integer.parseInt(result));
 

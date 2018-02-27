@@ -31,6 +31,10 @@ import org.joda.time.LocalDate;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import eu.inmite.android.lib.validations.form.FormValidator;
 import eu.inmite.android.lib.validations.form.annotations.NotEmpty;
 import eu.inmite.android.lib.validations.form.callback.SimpleErrorPopupCallback;
@@ -157,6 +161,10 @@ public class DemographicForm extends WizardStep implements IDemographicView {
 
         presenter = new DemographicPresenter(this);
         presenter.loadDemographics();
+
+        DateFormat dateFormat = new SimpleDateFormat("HH:mm");
+        Date date = new Date();
+        TransactionTime.RegTime = dateFormat.format(date);
     }
 
     @Override
